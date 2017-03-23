@@ -1,0 +1,22 @@
+{
+    "name": "spideyiosia/mobilpay",
+    "description": "Netopia Mobilpay module for Laravel",
+    "keywords": ["mobilpay", "netopia", "laravel", "spidey"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Catalin Farcas",
+            "email": "spideyosia@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spideyiosia\\Mobilpay\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
